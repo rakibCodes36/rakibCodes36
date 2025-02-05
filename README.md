@@ -7,7 +7,7 @@
 <h3 align="center">Frontend Web Developer</h3>
 
 ## 👨‍💻 About Me  
-I am a passionate **Frontend Web Developer** with over **10 years of experience** specializing in **WordPress** and modern **React** applications. I have also built several **MERN stack** projects, exploring full-stack development. My goal is to create high-performance, user-friendly, and scalable web applications.
+I am a passionate **Frontend Web Developer** with over **5 years of experience** specializing in **WordPress** and modern **React** applications. I have also built several **MERN stack** projects, exploring full-stack development. My goal is to create high-performance, user-friendly, and scalable web applications.
 
 ## 🚀 Current Activities  
 - 🔭 I’m currently working on **React-based projects** and exploring **Next.js**  
@@ -18,7 +18,7 @@ I am a passionate **Frontend Web Developer** with over **10 years of experience*
 ## 🛠️ Skills  
 ### 🌐 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,bootstrap,tailwind" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,wordpress" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Backend & Database  
