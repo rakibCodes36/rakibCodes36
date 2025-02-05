@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Rakib 👋</h1>
-<h3 align="center">Frontend Web Developer | React & WordPress Focused</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 ## 👨‍💻 About Me  
 I am a passionate **Frontend Web Developer** with over **10 years of experience** specializing in **WordPress** and modern **React** applications. I have also built several **MERN stack** projects, exploring full-stack development. My goal is to create high-performance, user-friendly, and scalable web applications.
