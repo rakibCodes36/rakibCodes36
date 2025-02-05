@@ -3,7 +3,7 @@
  <img src="https://i.ibb.co.com/CsMGjc5S/web-developer-rakibcodes36.jpg" alt="web-developer-rakibcodes36" border="0">
 </p>
 
-<h1 align="center">Hi, I'm Rakib 👋</h1>
+<h1 align="center">Hi, I'm Md Rakibul Hasan 👋</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
 ## 👨‍💻 About Me  
@@ -18,7 +18,7 @@ I am a passionate **Frontend Web Developer** with over **5 years of experience**
 ## 🛠️ Skills  
 ### 🌐 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,wordpress" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Backend & Database  
