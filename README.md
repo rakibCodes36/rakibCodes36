@@ -46,6 +46,9 @@ I am a passionate **Frontend Web Developer** with over **5 years of experience**
   <a href="https://x.com/rakibul090336" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
+ <a href="https://wa.me/8801719614461" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
 </div>
 
 
