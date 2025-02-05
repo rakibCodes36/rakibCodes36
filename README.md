@@ -28,7 +28,7 @@ I am a passionate **Frontend Web Developer** with over **5 years of experience**
 
 ### 🛠️ Tools & Others  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,webpack" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,postman" alt="Tools" />
 </p>
 
 ## 📫 Connect with Me  
