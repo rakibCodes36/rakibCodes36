@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner Image" />
+ <img src="https://i.ibb.co.com/Pv8fhFZH/Purple-Modern-Professional-Web-Designer-Linked-In-Banner-1200-x-400-px.jpg" alt="Professional-Web-developer-rakibcodes36" border="0">
 </p>
 
 <h1 align="center">Hi, I'm [Your Name] 👋</h1>
