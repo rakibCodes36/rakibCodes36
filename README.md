@@ -15,7 +15,6 @@ I am a passionate **Frontend Web Developer** with over **5 years of experience**
 - ⚡ Improving my skills in **MongoDB, Express.js, React, and Node.js (MERN)**  
 - 🤝 Open to collaborating on exciting **frontend and full-stack projects**  
 
-<div align="center">
 
 ## 🛠️ Skills  
 
@@ -35,13 +34,11 @@ I am a passionate **Frontend Web Developer** with over **5 years of experience**
 </p>
 
 
-
-
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)  
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakib36/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakibCodes36/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rakibul090336)  
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
