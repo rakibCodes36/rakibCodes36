@@ -15,7 +15,10 @@ I am a passionate **Frontend Web Developer** with over **5 years of experience**
 - ⚡ Improving my skills in **MongoDB, Express.js, React, and Node.js (MERN)**  
 - 🤝 Open to collaborating on exciting **frontend and full-stack projects**  
 
+<div align="center">
+
 ## 🛠️ Skills  
+
 ### 🌐 Frontend  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" alt="Frontend Skills" />
@@ -31,11 +34,14 @@ I am a passionate **Frontend Web Developer** with over **5 years of experience**
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" alt="Tools" />
 </p>
 
+
+
+
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)  
-
+</div>
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
